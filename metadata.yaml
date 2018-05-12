@@ -1,0 +1,43 @@
+_repo: M-moires-de-Mademoiselle-Mars--volume-II--de-la-Com-die-Fran-aise-_25526
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mars, Mademoiselle
+    aliases:
+    - Boutet, Anne Francoise Hippolyte
+    - Boutet, Anne Françoise Hippolyte
+    birthdate: 1779
+    deathdate: 1847
+    gutenberg_agent_id: '28362'
+    url: http://www.gutenberg.org/2009/agents/28362
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Mademoiselle_Mars
+    - http://en.wikipedia.org/wiki/Mademoiselle_Mars
+  editor:
+    agent_name: Beauvoir, Roger de
+    birthdate: 1806
+    deathdate: 1866
+    gutenberg_agent_id: '28361'
+    url: http://www.gutenberg.org/2009/agents/28361
+description: ''
+gutenberg_bookshelf:
+- FR Femmes
+- FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2008-05-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25526'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mars, Mademoiselle, 1779-1847'
+- !lcc 'CT'
+title: 'Mémoires de Mademoiselle Mars (volume II)
+
+  (de la Comédie Française)'
+url: http://www.gutenberg.org/ebooks/25526
