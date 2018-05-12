@@ -23,6 +23,8 @@ creator:
     gutenberg_agent_id: '28361'
     url: http://www.gutenberg.org/2009/agents/28361
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25526#M-moires-de-Mademoiselle-Mars--volume-II--de-la-Com-die-Fran-aise-
 gutenberg_bookshelf:
 - FR Femmes
 - FR Biographie, Mémoires, Journal intime, Correspondance
